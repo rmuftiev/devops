@@ -1,1 +1,1 @@
-some other text for the 2 text file
+Forth VERSION  for the 2 text file
