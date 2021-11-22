@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+c67c77dbed6c7330a3ff8b36245a875804c9abf5 refs/remotes/origin/forth-bugfix-branch
+c67c77dbed6c7330a3ff8b36245a875804c9abf5 refs/remotes/origin/main
+52aba18bd6b0ae73a25ff76bcd1d1a9fec0ed6d8 refs/remotes/origin/master
+8e8a12bd93c7026ba2cfd8a8cc0304bd31448c93 refs/remotes/origin/second-feature-branch
+f408e00b76d9e6fecb148428b7da6e67292df2cd refs/remotes/origin/test-feature-branch
+c67c77dbed6c7330a3ff8b36245a875804c9abf5 refs/remotes/origin/third-bugfix-branch

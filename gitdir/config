@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@github.com:rmuftiev/devops.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "third-bugfix-branch"]
+	remote = origin
+	merge = refs/heads/third-bugfix-branch
+[branch "forth-bugfix-branch"]
+	remote = origin
+	merge = refs/heads/forth-bugfix-branch
